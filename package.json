@@ -1,0 +1,35 @@
+{
+  "name": "polygon-centroid",
+  "version": "1.0.0",
+  "description": "Return the centroid for a given convex polygon.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "faucet": "^0.0.1",
+    "tape": "^3.5.0"
+  },
+  "devDependencies": {
+    "faucet": "0.0.1",
+    "tape": "^3.5.0"
+  },
+  "scripts": {
+    "test": "tape ./test | faucet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ayamflow/polygon-centroid"
+  },
+  "keywords": [
+    "polygon",
+    "center",
+    "centroid"
+  ],
+  "author": "= <=>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ayamflow/polygon-centroid/issues"
+  },
+  "homepage": "https://github.com/ayamflow/polygon-centroid"
+}
