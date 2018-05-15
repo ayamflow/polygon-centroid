@@ -8,11 +8,10 @@
   },
   "dependencies": {
     "faucet": "^0.0.1",
-    "tape": "^3.5.0"
+    "tape": "^4.9.0"
   },
   "devDependencies": {
-    "faucet": "0.0.1",
-    "tape": "^3.5.0"
+    "faucet": "0.0.1"
   },
   "scripts": {
     "test": "tape ./test | faucet"
