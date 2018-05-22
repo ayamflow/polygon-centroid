@@ -7,9 +7,9 @@
     "test": "test"
   },
   "dependencies": {
-    "faucet": "^0.0.1"
   },
   "devDependencies": {
+    "faucet": "^0.0.1",
     "tape": "^4.9.0"
   },
   "scripts": {
